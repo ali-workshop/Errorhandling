@@ -1,0 +1,5 @@
+the errro number is 2,and the message of error is  Undefined variable $alolaa,in the file C:\xampp\htdocs\backend_course\Errorhandling\seconderrorhandler.php,in line 32
+the errro number is 2,and the message of error is  Undefined variable $alolaa,in the file C:\xampp\htdocs\backend_course\Errorhandling\seconderrorhandler.php,in line 32
+the errro number is 2,and the message of error is  Undefined variable $alolaa,in the file C:\xampp\htdocs\backend_course\Errorhandling\seconderrorhandler.php,in line 32
+the errro number is 2,and the message of error is  Undefined variable $alolaa,in the file C:\xampp\htdocs\backend_course\Errorhandling\seconderrorhandler.php,in line 32
+the errro number is 2,and the message of error is  Undefined variable $alolaa,in the file C:\xampp\htdocs\backend_course\Errorhandling\seconderrorhandler.php,in line 32
